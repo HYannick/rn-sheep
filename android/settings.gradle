@@ -1,0 +1,3 @@
+rootProject.name = 'rnshee'
+
+include ':app'
